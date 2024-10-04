@@ -101,5 +101,3 @@ You can test the API using Postman or any API client:
 1. Ensure MongoDB is running locally or use your own MongoDB Atlas URI.
 2. Use the predefined routes to perform CRUD operations on teachers, children, and classes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
